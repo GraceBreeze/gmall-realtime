@@ -5,5 +5,7 @@ package com.atguigu;
  * @create 2022-08-22 19:33
  */
 public class Test01_FlinkCDC {
+    public static void main(String[] args) {
 
+    }
 }
